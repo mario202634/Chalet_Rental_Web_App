@@ -1,0 +1,9 @@
+POST http://localhost:5000/rentals/
+Content-Type: application/json
+
+{
+  "userId": "638fea34b99d13cee45ef68e",
+  "chaletId": "639211099967c74f9cb3e645",
+  "startDate": "07/12/2022",
+  "endDate": "08/12/2022"
+}

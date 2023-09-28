@@ -1,0 +1,12 @@
+POST http://localhost:5000/chalets
+Content-Type: application/json
+
+{
+  "name": "chalet1",
+  "email": "mail@mail.com",
+  "address": "P9F9+MC2, Erban Atekah and Al Manayef, Attaka, Suez Governorate",
+  "imgURL": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/aff9b438-Panel07_MultiHeroCarousel_Productive:VP5-1920x720",
+  "price": 200,
+  "govId": "639393bc43b7e523f71a4fe5",
+  "userId": "6392825ba8af2bf7513483b4"
+}

@@ -1,0 +1,6 @@
+PUT http://localhost:5000/rentals/63911d523867f5227d66245b
+Content-Type:application/json
+
+{
+"endDate":"12/12/2022"
+}

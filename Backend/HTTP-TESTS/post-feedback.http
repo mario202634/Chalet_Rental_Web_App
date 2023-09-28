@@ -1,0 +1,9 @@
+GET http://localhost:5000/feedbacks/6390ca83c5bc2f6a5013e7c4
+Content-Type: application/json
+
+{
+  "name": "Mr Watermelon",
+  "email": "mangoblbn@mango.com",
+  "chaletId": "6390caa0c5bc2f6a5013e7c6",
+  "feedback": "Mango 6969"
+}

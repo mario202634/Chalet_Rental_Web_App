@@ -1,0 +1,6 @@
+POST http://localhost:5000/governorates
+Content-Type: application/json
+
+{
+  "name": "North Coast"
+}

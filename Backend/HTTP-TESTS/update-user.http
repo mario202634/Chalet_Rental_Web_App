@@ -1,0 +1,8 @@
+PUT http://localhost:5000/user/63911f4d4cdeca8a4c5faeb3
+Content-Type: application/json
+
+{
+  "name": "NewName",
+  "username":"UpdatedName",
+  "password":"12345"
+}

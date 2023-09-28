@@ -1,0 +1,10 @@
+PUT http://localhost:5000/chalets/6396534404a2c295cf0819f5
+Content-Type: application/json
+
+{
+  "name": "New Chalet",
+  "email":"NewEmail@gmail.com",
+  "address":"CityStars , Alamaza",
+  "is_rented":false,
+  "govId": "639394fc4e77ff754a7207f1"
+  }
